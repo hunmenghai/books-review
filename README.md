@@ -2,6 +2,10 @@
 
 A personal reading journal where I keep track of books I've read, my ratings, and the thoughts and notes I want to remember.
 
+## Preview
+
+![Books Review application showing the book list, ratings, reading notes, and book management controls](screenshots/books-review.png)
+
 ## Features
 
 - Add books using their ISBN
@@ -74,3 +78,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## Author
 
 Hun Menghai · [GitHub](https://github.com/hunmenghai)
+
